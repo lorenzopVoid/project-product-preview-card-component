@@ -44,7 +44,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Finished project](https://lorenzopvoid.github.io/project-product-preview-card-component/)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify link project](project-product-preview-card-componen.netlify.app)
 
 ## My process
 
